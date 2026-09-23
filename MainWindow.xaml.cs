@@ -23,6 +23,8 @@ namespace PracticeWork2
 
     // Комментарий
 
+    /// dfkkdfkdf
+
 
     public partial class MainWindow : Window
     {
