@@ -19,6 +19,11 @@ namespace PracticeWork2
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
     /// </summary>
+    /// 
+
+    // Комментарий
+
+
     public partial class MainWindow : Window
     {
         public MainWindow()
